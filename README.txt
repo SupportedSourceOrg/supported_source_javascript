@@ -2,8 +2,6 @@
 
 ## Installation
 
-##### Instructions for using Supported Source
-
 Add supported-source to your npm dependencies. Then run `npm install`. Finally, follow the instructions on the website to include a function call to the Supported Source package at the start of your project. This should look like:
 
 ```javascript
