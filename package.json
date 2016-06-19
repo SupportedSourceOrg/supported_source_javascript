@@ -1,0 +1,18 @@
+{
+  "name": "supported-source",
+  "version": "0.8.1",
+  "description": "Know who's using your project with Supported Source.",
+  "main": "index.js",
+  "keywords": [
+    "supso",
+    "supported",
+    "source",
+    "crm"
+  ],
+  "author": "Supported Source <admin@supportedsource.org> (http://supportedsource.org)",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "private": true,
+  "dependencies": {
+    "app-root-path": "^1.2.1"
+  }
+}
