@@ -1,6 +1,6 @@
 {
   "name": "supported-source",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "description": "Know who's using your project with Supported Source.",
   "main": "index.js",
   "keywords": [
@@ -10,7 +10,7 @@
     "crm"
   ],
   "author": "Supported Source <admin@supportedsource.org> (http://supportedsource.org)",
-  "license": "SEE LICENSE IN LICENSE.txt",
+  "license": "MIT",
   "dependencies": {
     "app-root-path": "^1.2.1"
   }
