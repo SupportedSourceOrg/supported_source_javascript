@@ -1,15 +1,15 @@
 {
-  "name": "supported-source",
-  "version": "0.8.2",
-  "description": "Know who's using your project with Supported Source.",
+  "name": "super-source",
+  "version": "0.10.0",
+  "description": "Know who's using your project with Super Source.",
   "main": "index.js",
   "keywords": [
     "supso",
-    "supported",
+    "super",
     "source",
     "crm"
   ],
-  "author": "Supported Source <admin@supportedsource.org> (http://supportedsource.org)",
+  "author": "Super Source <admin@supso.org> (http://supso.org)",
   "license": "MIT",
   "dependencies": {
     "app-root-path": "^1.2.1"

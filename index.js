@@ -1,6 +1,6 @@
-var SupportedSource = {};
+var SuperSource = {};
 
-SupportedSource.Project = require('./project');
-SupportedSource.Values = require('./values')
+SuperSource.Project = require('./project');
+SuperSource.Values = require('./values')
 
-module.exports = SupportedSource;
+module.exports = SuperSource;

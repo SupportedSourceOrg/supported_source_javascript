@@ -23,6 +23,6 @@ Errors.MissingProjectToken.prototype = Object.create(Error.prototype);
 
 Errors.INSTRUCTIONS = "\n\n * To get client tokens, run `supso update`." +
     "\n\n * If you do not have the supso command line interface yet, first run `gem install supso`." +
-    "\n\n * Visit http://supportedsource.org/help for further help.\n";
+    "\n\n * Visit http://supso.org/help for further help.\n";
 
 module.exports = Errors;
